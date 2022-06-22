@@ -25,7 +25,6 @@
 
 1. Open flow/bpmn in Camunda Modeler
 2. Change settings/vars the the `Define Zendesk settings` task
-3. 
 4. Click `Deploy current diagram` and follow the steps
 
 ### Run 
