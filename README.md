@@ -11,9 +11,9 @@
 
 ## Requirements
 
-* Onify Hub  
-* Camunda Modeler
-* Zendesk 
+* [Onify Hub](https://github.com/onify/install)
+* [Camunda Modeler](https://camunda.com/download/modeler/)
+* [Zendesk](https://zendesk.com/) 
 
 ## Included
 
