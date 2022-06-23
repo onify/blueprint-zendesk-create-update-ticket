@@ -11,9 +11,9 @@
 
 ## Requirements
 
-* Onify Hub  
-* Camunda Modeler
-* Zendesk 
+* [Onify Hub](https://github.com/onify/install)
+* [Camunda Modeler](https://camunda.com/download/modeler/)
+* [Zendesk](https://zendesk.com/) 
 
 ## Included
 
@@ -25,7 +25,6 @@
 
 1. Open flow/bpmn in Camunda Modeler
 2. Change settings/vars the the `Define Zendesk settings` task
-3. 
 4. Click `Deploy current diagram` and follow the steps
 
 ### Run 
