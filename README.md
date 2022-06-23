@@ -7,7 +7,7 @@
 
 [Zendesk](https://zendesk.com/) is one of the most used ticketing and customer success solutions. In this Blueprint we show how to first create a new ticket and then update the same ticket using a BPMN process in Onify. Everyting is done through [Zendesk REST API](https://developer.zendesk.com/api-reference/).
 
-![Onify Blueprint: Create and update ticket in Zendesk](flow.png "Flow")
+![Onify Blueprint: Create and update ticket in Zendesk](blueprint.jpg "Flow")
 
 ## Requirements
 
